@@ -41,4 +41,4 @@ And is calculated as Waiting Time = Turn Around Time – Burst Time
 
 
 
-this repo contain c++,c,java and python program files for round robin.
+this repo contain c++,c#,java and python program files for round robin.
