@@ -31,8 +31,7 @@ public class GFG
 						// Increase the value of t i.e. shows how much time a process has been processed
 						t += quantum;
 	
-						// Decrease the burst_time of current process
-						// by quantum
+						// Decrease the burst_time of current process by quantum
 						rem_bt[i] -= quantum;
 					}
 	
