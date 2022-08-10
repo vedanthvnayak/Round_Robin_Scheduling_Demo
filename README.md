@@ -37,3 +37,8 @@ The Formula to calculate the same is: Turn Around Time = Completion Time – Arr
 
 Waiting Time(W.T): It Indicates the time Difference between turn around time and burst time.
 And is calculated as Waiting Time = Turn Around Time – Burst Time
+
+
+
+
+this repo contain c++,c,java and python program files for round robin.
